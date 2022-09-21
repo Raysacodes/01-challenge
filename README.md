@@ -27,6 +27,8 @@ Usage
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens.
 
 01-html-css-git-homework-demo.png
+C:\Users\tuti1\Documents\UCF\local\01-HTML-Git-CSS\02-Challenge\Assets\01-html-css-git-homework-demo.png
+
 
 References and tutorials utilized
 https://www.w3schools.com/html/html5_semantic_elements.asp
