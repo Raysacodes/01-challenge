@@ -12,10 +12,11 @@ CSS was reorganized to follow a logical structure
 Classes and elements were separated, then ordered alphabetically within each group
 Comments added to delineate each separation
 A descriptive title was added
+
 Links
 file:///C:/Users/tuti1/Documents/UCF/01-challenge/Develop/index.html
 
-Link to the code repository
+https://github.com/Raysacodes/01-challenge
 
 Installation
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
