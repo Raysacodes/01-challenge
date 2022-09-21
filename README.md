@@ -26,7 +26,7 @@ The deployed website linked above was deployed using GitHub Pages.
 Usage
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens.
 
-screenshot of index.html
+01-html-css-git-homework-demo.png
 
 References and tutorials utilized
 https://www.w3schools.com/html/html5_semantic_elements.asp
