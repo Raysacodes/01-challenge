@@ -29,7 +29,6 @@ Once deployed the application can be viewed in a traditional desktop web browser
 
 ![image](https://user-images.githubusercontent.com/109702008/191520387-f8cdcecd-ad87-4b74-a8b1-525f73d8ac05.png)
 
-(https://user-images.githubusercontent.com/109702008/191518684-21ca9d67-228b-48e7-8ac2-7cd3d7f8f356.png)
 
 References and tutorials utilized
 https://www.w3schools.com/html/html5_semantic_elements.asp
