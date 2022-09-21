@@ -13,7 +13,7 @@ Classes and elements were separated, then ordered alphabetically within each gro
 Comments added to delineate each separation
 A descriptive title was added
 Links
-Link to the deployed website
+file:///C:/Users/tuti1/Documents/UCF/01-challenge/Develop/index.html
 
 Link to the code repository
 
