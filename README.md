@@ -25,14 +25,13 @@ Upload index.html, license.txt, and assets folder to the deployed webserver. The
 The deployed website linked above was deployed using GitHub Pages.
 
 Usage
-Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens.
+Once deployed the application can be viewed in a traditional desktop web browser. 
 
 
 (https://user-images.githubusercontent.com/109702008/191518684-21ca9d67-228b-48e7-8ac2-7cd3d7f8f356.png)
 
 References and tutorials utilized
 https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.youtube.com/watch?v=kGW8Al_cga4![01-html-css-git-homework-demo]
 http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
 https://www.markdownguide.org/basic-syntax/
 https://masteringmarkdown.com/
